@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot....​)]
+
 <h1 align="center">Hi 👋, I'm krishna srivastava</h1>
 <h3 align="center">undergraduate computer science engineer at Invertise university, India</h3>
-<img align="right" alt="coding image" width="400" src="coding-img.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-srivastava" /> </p>
 
