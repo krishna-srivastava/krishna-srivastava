@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm krishna srivastava</h1>
-<h3 align="center">undergraduate computer science engineer at Invertise university, India</h3>
+<h3 align="center">undergraduate computer science engineering at Invertise university, India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-srivastava" /> </p>
