@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **krissrivastava20@gmail.com**
 
-- Hello! I'm Krishna Srivastava, currently pursuing my BTech Computer Science Engineering at Invertis University Bareilly,uttarpradesh India. I'm on a journey to become a web developer.
+- Hello! I'm Krishna Srivastava, currently pursuing my BTech Computer Science Engineering at Invertis University Bareilly, India. I'm on a journey to become a web developer.
   I'm passionate about coding, and I'm eager to expand my knowledge and skillset. ✓
 
  ⚡Outside of tech, I love to connect with people and learn about their journey, it helps me to open up my mind from different perspectives on various domains..
