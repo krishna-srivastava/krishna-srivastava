@@ -20,4 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna-srivastava&show_icons=true&locale=en&layout=compact" alt="krishna-srivastava" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna-srivastava&show_icons=true&locale=en" alt="krishna-srivastava" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-srivastava&" alt="krishna-srivastava" /></p>
