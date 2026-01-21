@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-srivastava" /> </p>
 
-<p align="left"> <a href="https://twitter.com/krishnasv77" target="blank"><img src="https://img.shields.io/twitter/follow/krishnasv77?logo=twitter&style=for-the-badge" alt="krishnasv77" /></a> </p>
-
 - 🌱 I’m currently learning **Data Analysis, Power BI dashboards, SQL optimization, and basic Machine Learning concepts**
 
 - 💬 Ask me about **Python, Pandas, EDA projects, data cleaning & visualization**
