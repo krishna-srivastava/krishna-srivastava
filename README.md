@@ -1,29 +1,70 @@
-<h1 align="center">Hi 👋, I'm krishna srivastava</h1>
-<h3 align="center">undergraduate computer science engineer at Invertis university, India</h3>
+<h1 align="center">Hi 👋, I'm Krishna Srivastava</h1>
+<h3 align="center">Data Analyst | Python | SQL | Power BI | Excel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-srivastava" /> </p>
-
-- 🌱 I’m currently learning **Data Analysis, Power BI dashboards, SQL optimization, and basic Machine Learning concepts**
-
-- 💬 Ask me about **Python, Pandas, EDA projects, data cleaning & visualization**
-
-- 📫 How to reach me **krissrivastava20@gmail.com**
-
-- ⚡ Fun fact **I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/krishnasv77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishnasv77" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krishna srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna srivastava" height="30" width="40" /></a>
-<a href="https://fb.com/krishna srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krishna srivastava" height="30" width="40" /></a>
-<a href="https://instagram.com/_krishna.srivastava_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_krishna.srivastava_" height="30" width="40" /></a>
+<p align="center">
+I analyze data to uncover insights and help businesses make better decisions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna-srivastava&show_icons=true&locale=en&layout=compact" alt="krishna-srivastava" /></p>
+## 🚀 About Me
+- 📊 Data Analyst skilled in Python, SQL, Excel & Power BI  
+- 📈 Focused on data cleaning, analysis & visualization  
+- 💡 Turning raw data into meaningful insights  
+- 🎯 Open to internships & freelance opportunities  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna-srivastava&show_icons=true&locale=en" alt="krishna-srivastava" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-srivastava&" alt="krishna-srivastava" /></p>
+## 💼 Services I Offer
+- Data Cleaning & Analysis (Python / Excel)  
+- SQL Queries & Business Insights  
+- Interactive Dashboards (Power BI / Excel)  
+- Exploratory Data Analysis (EDA)  
+
+---
+
+## 🚀 Featured Projects
+
+### 🚀 DataPilot Studio
+- Built a data analysis project framework  
+- Focused on structured data processing & insights  
+- Designed for scalable analysis workflows  
+👉 https://github.com/krishna-srivastava/DataPilot-Studio
+
+---
+
+### 🎧 Spotify Songs Analysis
+- Analyzed Spotify dataset to identify trends in music popularity  
+- Explored relationships between audio features and song success  
+- Visualized insights using Python libraries  
+👉 https://github.com/krishna-srivastava/spotify-songs-analysis
+
+---
+
+### 🎬 IMDb Top 1000 Analysis
+- Performed EDA on top 1000 movies dataset  
+- Identified trends in ratings, genres & revenue  
+- Extracted insights on what makes a movie successful  
+👉 https://github.com/krishna-srivastava/imdb-top-1000-analysis
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Tools:** Excel, Power BI, MySQL  
+- **Other:** Data Cleaning, EDA, Visualization  
+
+---
+
+## 📬 Contact Me
+- 📧 Email: krissrivastava20@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/krishna-srivastava  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=krishna-srivastava&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-srivastava&theme=tokyonight" />
+</p>
