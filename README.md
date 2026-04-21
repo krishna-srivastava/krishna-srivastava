@@ -85,7 +85,7 @@ I analyze data to uncover insights and help businesses make better decisions.
 
 ## 📬 Contact Me
 - 📧 Email: krissrivastava20@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/krishna-srivastava  
+- 🔗 LinkedIn: https://linkedin.com/in/krishna-srivastava](https://www.linkedin.com/in/krishna-srivastava-b402a1323/
 
 ---
 
