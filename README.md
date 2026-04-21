@@ -72,7 +72,6 @@ I analyze data to uncover insights and help businesses make better decisions.
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></td>
 
-<td><img src="https://matplotlib.org/_static/images/logo2.svg" width="40"/></td>
 <td><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></td>
 
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></td>
