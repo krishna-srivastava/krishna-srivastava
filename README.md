@@ -29,19 +29,19 @@ I analyze data to uncover insights and help businesses make better decisions.
 - Built a data analysis project framework  
 - Focused on structured data processing & insights  
 - Designed for scalable analysis workflows  
-👉 https://github.com/krishna-srivastava/DataPilot-Studio
+- https://github.com/krishna-srivastava/DataPilot-Studio
 
 ### 🤖 ML Predictor
 - No-code ML platform — clean, encode, and train models on any dataset through the UI
 - Column-level EDA (distributions, box plots, skewness), missing value handling, and Label/One-Hot/Ordinal encoding, all with undo/reset
 - Auto-detects classification vs regression, auto-scales & applies PCA when needed, trains 5 model types per task, and exports the trained model as a `.pkl`
-👉 https://github.com/krishna-srivastava/ml-predictor
+- https://github.com/krishna-srivastava/ml-predictor
 
 ### 📈 Horizon Studio — Time Series Forecasting
 - Built an end-to-end forecasting pipeline in Streamlit — CSV upload to validated predictions  
 - Automatic date/frequency detection, trend & seasonality analysis, leakage-safe feature engineering  
 - Supports ARIMA, SARIMA, Prophet, Random Forest & XGBoost with holdout accuracy evaluation  
-👉 https://github.com/krishna-srivastava/horizon-studio-forecasting
+- https://github.com/krishna-srivastava/horizon-studio-forecasting
 
 ---
 
