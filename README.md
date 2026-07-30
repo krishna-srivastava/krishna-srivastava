@@ -31,21 +31,17 @@ I analyze data to uncover insights and help businesses make better decisions.
 - Designed for scalable analysis workflows  
 👉 https://github.com/krishna-srivastava/DataPilot-Studio
 
----
+### 🤖 ML Predictor
+- No-code ML platform — clean, encode, and train models on any dataset through the UI
+- Column-level EDA (distributions, box plots, skewness), missing value handling, and Label/One-Hot/Ordinal encoding, all with undo/reset
+- Auto-detects classification vs regression, auto-scales & applies PCA when needed, trains 5 model types per task, and exports the trained model as a `.pkl`
+👉 https://github.com/krishna-srivastava/ml-predictor
 
-### 🎧 Spotify Songs Analysis
-- Analyzed Spotify dataset to identify trends in music popularity  
-- Explored relationships between audio features and song success  
-- Visualized insights using Python libraries  
-👉 https://github.com/krishna-srivastava/spotify-songs-analysis
-
----
-
-### 🎬 IMDb Top 1000 Analysis
-- Performed EDA on top 1000 movies dataset  
-- Identified trends in ratings, genres & revenue  
-- Extracted insights on what makes a movie successful  
-👉 https://github.com/krishna-srivastava/imdb-top-1000-analysis
+### 📈 Horizon Studio — Time Series Forecasting
+- Built an end-to-end forecasting pipeline in Streamlit — CSV upload to validated predictions  
+- Automatic date/frequency detection, trend & seasonality analysis, leakage-safe feature engineering  
+- Supports ARIMA, SARIMA, Prophet, Random Forest & XGBoost with holdout accuracy evaluation  
+👉 https://github.com/krishna-srivastava/horizon-studio-forecasting
 
 ---
 
