@@ -19,7 +19,7 @@ I analyze data to uncover insights and help businesses make better decisions.
 - Data Cleaning & Analysis (Python / Excel)  
 - SQL Queries & Business Insights  
 - Interactive Dashboards (Power BI / Excel)  
-- Exploratory Data Analysis (EDA)  
+- Exploratory Data Analysis (EDA)   
 
 ---
 
