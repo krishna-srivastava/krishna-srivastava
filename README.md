@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Srivastava</h1>       
-<h3 align="center">Data Analyst | Python | SQL | Power BI | Excel</h3>
+<h3 align="center">Data Analyst | Python | SQL | Power BI | Excel | Machine Learning</h3>
 
 <p align="center">
 I analyze data to uncover insights and help businesses make better decisions.
