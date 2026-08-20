@@ -25,10 +25,11 @@ I analyze data to uncover insights and help businesses make better decisions.
 
 ## 🚀 Featured Projects
 
-### 🚀 DataPilot Studio
-- Built a data analysis project framework  
-- Focused on structured data processing & insights  
-- Designed for scalable analysis workflows  
+### 🛸 DataPilot Studio
+- End-to-end data workflow — from raw CSV to a trained ML model, in one app
+- **EDA Lab**: Overview, Column Analyzer, Correlation, Data Cleaning, Duplicate Rows, Visualization
+- **Model Lab**: Encoding, Feature Importance, Model Training (Regression & Classification, multiple algorithms incl. XGBoost/LightGBM)
+- Designed for scalable, structured data-to-model workflows
 - https://github.com/krishna-srivastava/DataPilot-Studio
 
 ### 📈 Horizon Studio — Time Series Forecasting
