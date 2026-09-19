@@ -32,6 +32,12 @@ I analyze data to uncover insights and help businesses make better decisions.
 - Designed for scalable, structured data-to-model workflows
 - https://github.com/krishna-srivastava/DataPilot-Studio
 
+### 🛒 BharatKart — E-Commerce Diagnostic Analytics
+- Cleaned and prepared raw e-commerce data to build an accurate, leak-proof diagnostic dataset
+- Used advanced SQL to analyze sales performance and solve core business & profitability questions
+- Identified root causes behind seller loss leakage, discount erosion, customer churn, and category margins
+- https://github.com/krishna-srivastava/BharatKart-Sales-Analytics
+
 ### 📈 Horizon Studio — Time Series Forecasting
 - Built an end-to-end forecasting pipeline in Streamlit — CSV upload to validated predictions  
 - Automatic date/frequency detection, trend & seasonality analysis, leakage-safe feature engineering  
