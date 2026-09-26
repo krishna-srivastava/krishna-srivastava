@@ -46,12 +46,13 @@ I work with data to uncover insights, build analytical solutions, and turn raw d
 
 ---
 
-### 🛒 BharatKart — E-Commerce Diagnostic Analytics
+### 🛒 BharatKart — E-Commerce Analytics
 
-* Cleaned and prepared raw e-commerce data to build an accurate, leak-proof diagnostic dataset
-* Used advanced SQL to analyze sales performance and profitability
-* Identified root causes behind seller loss leakage, discount erosion, customer churn & category margins
-* Focused on turning raw transactional data into actionable business insights
+* Built an end-to-end e-commerce analytics project using Python, Pandas, SQL, and Power BI
+* Cleaned, explored, and validated multi-table transactional data for reliable analysis
+* Used SQL to analyze sales, profitability, customers, products, sellers, payments, returns, and operations
+* Built a relational data model and developed a **7-page interactive Power BI dashboard**
+* Analyzed customer segmentation, product & seller performance, delivery delays, payment behavior, and returns
 
 🔗 https://github.com/krishna-srivastava/BharatKart-Sales-Analytics
 
