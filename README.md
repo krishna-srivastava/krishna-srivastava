@@ -49,7 +49,7 @@ I work across the analytics workflow — from **data cleaning and SQL analysis**
 * Supports Regression & Classification with multiple algorithms including XGBoost & LightGBM
 * Designed for structured and scalable data-to-model workflows
 
-🔗 krishna-srivastava/DataPilot-Studio
+🔗 https://github.com/krishna-srivastava/DataPilot-Studio
 
 ---
 
@@ -61,7 +61,7 @@ I work across the analytics workflow — from **data cleaning and SQL analysis**
 * Built a relational data model and developed a **7-page interactive Power BI dashboard**
 * Analyzed customer segmentation, product & seller performance, delivery delays, payment behavior, and returns
 
-🔗 krishna-srivastava/BharatKart-Sales-Analytics
+🔗 https://github.com/krishna-srivastava/BharatKart-Sales-Analytics
 
 ---
 
@@ -73,6 +73,6 @@ I work across the analytics workflow — from **data cleaning and SQL analysis**
 * Supports ARIMA, SARIMA, Prophet, Random Forest & XGBoost
 * Includes holdout-based forecasting evaluation
 
-🔗 krishna-srivastava/horizon-studio-forecasting
+🔗 https://github.com/krishna-srivastava/horizon-studio-forecasting
 
 ---
