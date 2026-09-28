@@ -22,74 +22,70 @@ Data Analyst • Python • SQL • Power BI • Excel • Machine Learning • 
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm an aspiring **Data Analyst** focused on turning data into meaningful insights and practical business solutions.
-
-I work across the analytics workflow — from **data cleaning and SQL analysis** to **interactive Power BI dashboards, statistical analysis, machine learning, and forecasting**.
-
-- 📊 Data Analysis with **Python, Pandas & Excel**
-- 🗄️ Business & transactional analysis using **SQL**
-- 📈 Interactive dashboards using **Power BI**
-- 🤖 Machine Learning for regression, classification & clustering
-- ⏳ Time Series analysis & forecasting
-- ⚡ Building data & ML applications with **Streamlit and FastAPI**
-- 🧠 Currently focused on strengthening fundamentals, building practical projects & interview preparation
-- 🎯 Open to **Data Analyst / Data Science internships and opportunities**
-
----
-
-## 🚀 Featured Projects
-
-### 🛸 DataPilot Studio
-
-* End-to-end data workflow — from raw CSV to a trained ML model, in one app
-* **EDA Lab:** Overview, Column Analyzer, Correlation, Data Cleaning, Duplicate Rows & Visualization
-* **Model Lab:** Encoding, Feature Importance & Model Training
-* Supports Regression & Classification with multiple algorithms including XGBoost & LightGBM
-* Designed for structured and scalable data-to-model workflows
-
-🔗 https://github.com/krishna-srivastava/DataPilot-Studio
-
----
-
-### 🛒 BharatKart — E-Commerce Analytics
-
-* Built an end-to-end e-commerce analytics project using Python, Pandas, SQL, and Power BI
-* Cleaned, explored, and validated multi-table transactional data for reliable analysis
-* Used SQL to analyze sales, profitability, customers, products, sellers, payments, returns, and operations
-* Built a relational data model and developed a **7-page interactive Power BI dashboard**
-* Analyzed customer segmentation, product & seller performance, delivery delays, payment behavior, and returns
-
-🔗 https://github.com/krishna-srivastava/BharatKart-Sales-Analytics
-
----
-
-### 📈 Horizon Studio — Time Series Forecasting
-
-* Built an end-to-end forecasting pipeline in Streamlit — from CSV upload to validated predictions
-* Automatic date/frequency detection with trend & seasonality analysis
-* Implemented leakage-safe feature engineering
-* Supports ARIMA, SARIMA, Prophet, Random Forest & XGBoost
-* Includes holdout-based forecasting evaluation
-
-🔗 https://github.com/krishna-srivastava/horizon-studio-forecasting
+* 📊 Aspiring Data Analyst with a strong foundation in Python, SQL, Excel & Power BI
+* 🐍 Hands-on with data cleaning, EDA & visualization in Python
+* 🤖 Solid grounding in Machine Learning: supervised & unsupervised learning
+* 📈 Worked on Time Series analysis and forecasting
+* ⚡ Building ML-powered apps and APIs with FastAPI
+* 🧠 Currently focused on practical projects & interview preparation
+* 🎯 **Open to Data Analyst / Data Science internships and opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, SQL  
-**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
-**Machine Learning:** Scikit-learn, XGBoost, LightGBM  
-**Data Visualization & BI:** Power BI, Excel  
-**Time Series:** ARIMA, SARIMA, Prophet, ML-based Forecasting  
-**Backend / Deployment:** FastAPI, Streamlit  
-**Database:** MySQL, PostgreSQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,fastapi,pandas,numpy,sklearn,powerbi" />
+</p>
+
+| Area | Tools |
+|---|---|
+| **Languages** | Python, SQL |
+| **Databases** | MySQL, PostgreSQL |
+| **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Machine Learning** | Scikit-learn, XGBoost, LightGBM |
+| **Time Series** | ARIMA, SARIMA, Prophet, ML-based Forecasting |
+| **BI & Visualization** | Power BI, Excel |
+| **Deployment** | FastAPI, Streamlit |
 
 ---
 
-##📊 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krishna-srivastava&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-srivastava&layout=compact&hide_border=true&theme=tokyonight" height="165"/> </p>
+## 🚀 Featured Projects
+
+### 🛸 [DataPilot Studio](https://github.com/krishna-srivastava/DataPilot-Studio)
+
+* End-to-end data workflow: from raw CSV to a trained ML model, in one app
+* **EDA Lab:** Overview, Column Analyzer, Correlation, Data Cleaning, Duplicate Rows & Visualization
+* **Model Lab:** Encoding, Feature Importance & Model Training
+* Supports Regression & Classification with multiple algorithms, including XGBoost & LightGBM
 
 ---
+
+### 🛒 [BharatKart — E-Commerce Analytics](https://github.com/krishna-srivastava/BharatKart-Sales-Analytics)
+
+* End-to-end e-commerce analytics using Python, Pandas, SQL, and Power BI
+* Cleaned, explored, and validated multi-table transactional data
+* SQL analysis of sales, profitability, customers, products, sellers, payments, returns, and operations
+* Built a relational data model and a **7-page interactive Power BI dashboard**
+* Covered customer segmentation, seller performance, delivery delays, payment behavior, and returns
+
+---
+
+### 📈 [Horizon Studio — Time Series Forecasting](https://github.com/krishna-srivastava/horizon-studio-forecasting)
+
+* End-to-end forecasting pipeline in Streamlit: from CSV upload to validated predictions
+* Automatic date/frequency detection with trend & seasonality analysis
+* Leakage-safe feature engineering
+* Supports ARIMA, SARIMA, Prophet, Random Forest & XGBoost
+* Holdout-based forecast evaluation
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=krishna-srivastava&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=krishna-srivastava&theme=tokyonight&hide_border=true" />
+</p>
