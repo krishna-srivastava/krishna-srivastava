@@ -42,115 +42,37 @@ I work across the analytics workflow — from **data cleaning and SQL analysis**
 ## 🚀 Featured Projects
 
 ### 🛸 DataPilot Studio
-**End-to-end Data Analysis & Machine Learning Platform**
 
-DataPilot Studio is an application that takes a dataset from **raw CSV → analysis → preprocessing → model training** inside a single workflow.
+* End-to-end data workflow — from raw CSV to a trained ML model, in one app
+* **EDA Lab:** Overview, Column Analyzer, Correlation, Data Cleaning, Duplicate Rows & Visualization
+* **Model Lab:** Encoding, Feature Importance & Model Training
+* Supports Regression & Classification with multiple algorithms including XGBoost & LightGBM
+* Designed for structured and scalable data-to-model workflows
 
-**Highlights**
-- 🔍 Automated dataset overview & column analysis
-- 📊 EDA with distributions, correlations & visualizations
-- 🧹 Data cleaning and preprocessing
-- 🧩 Feature encoding & feature importance
-- 🤖 Regression & Classification workflows
-- ⚡ XGBoost & LightGBM support
-- 📈 Model evaluation and comparison
-
-🔗 **[View Project →](https://github.com/krishna-srivastava/DataPilot-Studio)**
+🔗 krishna-srivastava/DataPilot-Studio
 
 ---
 
 ### 🛒 BharatKart — E-Commerce Analytics
-**End-to-End Business Intelligence & Sales Analytics**
 
-A multi-table e-commerce analytics project built using **Python, SQL and Power BI** to analyze business performance across customers, products, sellers, payments and operations.
+* Built an end-to-end e-commerce analytics project using Python, Pandas, SQL, and Power BI
+* Cleaned, explored, and validated multi-table transactional data for reliable analysis
+* Used SQL to analyze sales, profitability, customers, products, sellers, payments, returns, and operations
+* Built a relational data model and developed a **7-page interactive Power BI dashboard**
+* Analyzed customer segmentation, product & seller performance, delivery delays, payment behavior, and returns
 
-**Highlights**
-- 🧹 Cleaned & validated multi-table transactional data
-- 🗄️ Built a relational data model for analysis
-- 🔎 Used SQL for business-focused analysis
-- 📊 Built a **7-page interactive Power BI dashboard**
-- 👥 Customer & seller performance analysis
-- 🛍️ Product & category analysis
-- 💰 Sales & profitability analysis
-- 🚚 Delivery delay analysis
-- 💳 Payment behavior analysis
-- 🔄 Returns & operational analysis
-
-🔗 **[View Project →](https://github.com/krishna-srivastava/BharatKart-Sales-Analytics)**
+🔗 krishna-srivastava/BharatKart-Sales-Analytics
 
 ---
 
 ### 📈 Horizon Studio — Time Series Forecasting
-**End-to-End Forecasting Application**
 
-A Streamlit-based forecasting platform that takes a time-series dataset from **CSV upload → analysis → feature engineering → forecasting → evaluation**.
+* Built an end-to-end forecasting pipeline in Streamlit — from CSV upload to validated predictions
+* Automatic date/frequency detection with trend & seasonality analysis
+* Implemented leakage-safe feature engineering
+* Supports ARIMA, SARIMA, Prophet, Random Forest & XGBoost
+* Includes holdout-based forecasting evaluation
 
-**Highlights**
-- 📅 Automatic date & frequency detection
-- 📈 Trend and seasonality analysis
-- 🧩 Leakage-safe feature engineering
-- 🤖 ARIMA & SARIMA
-- 🔮 Prophet forecasting
-- 🌲 Random Forest & XGBoost forecasting
-- 📊 Holdout-based model evaluation
-- 📉 Forecast visualization & comparison
-
-🔗 **[View Project →](https://github.com/krishna-srivastava/horizon-studio-forecasting)**
+🔗 krishna-srivastava/horizon-studio-forecasting
 
 ---
-
-## 🧰 Tech Stack
-
-### 📊 Data Analytics
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="42"/>
-</p>
-
-**Python • Pandas • NumPy • SQL • MySQL • Matplotlib • Seaborn**
-
-### 📈 Business Intelligence
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="42"/>
-</p>
-
-**Power BI • DAX • Data Modeling • Power Query • Excel**
-
-### 🤖 Machine Learning
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55"/>
-</p>
-
-**Scikit-learn • XGBoost • LightGBM**
-
-**Regression • Classification • Clustering • Feature Engineering • Model Evaluation**
-
-### ⏳ Time Series
-
-**ARIMA • SARIMA • Prophet • Random Forest • XGBoost**
-
-**Trend Analysis • Seasonality • Feature Engineering • Forecast Evaluation**
-
-### ⚡ Development & Deployment
-
-**Streamlit • FastAPI • REST APIs**
-
----
-
-## 📌 What I'm Currently Working On
-
-```text
-Data Analysis
-     ↓
-SQL & Business Problem Solving
-     ↓
-Power BI & Data Modeling
-     ↓
-Machine Learning
-     ↓
-Time Series Forecasting
-     ↓
-Building Real-World Projects
