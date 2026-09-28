@@ -76,3 +76,15 @@ I work across the analytics workflow — from **data cleaning and SQL analysis**
 🔗 https://github.com/krishna-srivastava/horizon-studio-forecasting
 
 ---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL  
+**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
+**Machine Learning:** Scikit-learn, XGBoost, LightGBM  
+**Data Visualization & BI:** Power BI, Excel  
+**Time Series:** ARIMA, SARIMA, Prophet, ML-based Forecasting  
+**Backend / Deployment:** FastAPI, Streamlit  
+**Database:** MySQL, PostgreSQL
+
+---
