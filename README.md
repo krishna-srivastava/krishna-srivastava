@@ -88,3 +88,8 @@ I work across the analytics workflow — from **data cleaning and SQL analysis**
 **Database:** MySQL, PostgreSQL
 
 ---
+
+##📊 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krishna-srivastava&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-srivastava&layout=compact&hide_border=true&theme=tokyonight" height="165"/> </p>
+
+---
