@@ -1,23 +1,14 @@
 <h1 align="center">Hi 👋, I'm Krishna Srivastava</h1>
 
-<h3 align="center">
-Data Analyst • Python • SQL • Power BI • Excel • Machine Learning • Time Series
-</h3>
+<h3 align="center">Data Analyst | Python | SQL | Power BI | Excel | Machine Learning | Time Series</h3>
 
 <p align="center">
-  I turn raw data into insights, dashboards, and practical analytical solutions.
+I work with data to uncover insights, build analytical solutions, and turn raw data into meaningful business decisions.
 </p>
 
 <p align="center">
-  <a href="https://github.com/krishna-srivastava">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/krishna-srivastava-b402a1323/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:krissrivastava20@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="mailto:krissrivastava20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/krishna-srivastava-b402a1323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
