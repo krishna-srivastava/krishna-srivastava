@@ -36,10 +36,6 @@ Data Analyst • Python • SQL • Power BI • Excel • Machine Learning • 
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,fastapi,pandas,numpy,sklearn,powerbi" />
-</p>
-
 | Area | Tools |
 |---|---|
 | **Languages** | Python, SQL |
