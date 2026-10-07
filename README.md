@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krishna Srivastava</h1>
+<h1 align="center">Hi 👋, I'm Krishna Srivastava</h1> 
 
 <h3 align="center">Data Analyst | Python | SQL | Power BI | Excel | Machine Learning | Time Series</h3>
 
